@@ -6,3 +6,20 @@
     align-items: center;
     padding: 1.5625rem;
 }
+
+/*Media Querys*/
+
+@media screen and (min-width:0){
+    .rodapie__titulo{
+        font-size: 1rem;
+        align-items: center;
+        padding: 1.2rem;
+    }
+}
+@media screen and (min-width:768px){
+    .rodapie__titulo{
+        font-size: 1.25rem;
+        align-items: center;
+        padding: 1.5625rem;
+    }
+}
